@@ -41,3 +41,33 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: HairBack
+    uniqueID: 3917072989
+    locked: 0
+  - name: avatar base
+    uniqueID: 1428156403
+    locked: 0
+  - name: Mouth
+    uniqueID: 3355313285
+    locked: 0
+  - name: Nose
+    uniqueID: 1225351591
+    locked: 0
+  - name: Hair
+    uniqueID: 3208167947
+    locked: 0
+  - name: face
+    uniqueID: 499073239
+    locked: 0
+  - name: Bottom
+    uniqueID: 649831485
+    locked: 0
+  - name: Top
+    uniqueID: 2835630949
+    locked: 0
+  - name: HairFront
+    uniqueID: 913010687
+    locked: 0
+  - name: Eyes
+    uniqueID: 2972488937
+    locked: 0

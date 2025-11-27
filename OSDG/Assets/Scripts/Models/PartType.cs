@@ -24,6 +24,8 @@ namespace Assets.Scripts
         Eyes,
         Nose,
         Mouth,
-        Eyebrows
+        Eyebrows,
+        HairFront,
+        HairBack
     }
 }
